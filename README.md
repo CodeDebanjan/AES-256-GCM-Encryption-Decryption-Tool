@@ -12,7 +12,7 @@ Whether you want to secure personal documents, confidential files, or sensitive 
 
 ---
 
-##📌 Description
+## 📌 Description
 
 This project is a file encryption and decryption tool designed to help users securely protect their files using password-based encryption.
 
@@ -29,7 +29,7 @@ The application ensures that only users with the correct password can recover th
 
 ---
 
-##✨ Features
+## ✨ Features
 
 - 🔒 Secure file encryption
 - 🔓 Accurate file decryption
@@ -42,9 +42,9 @@ The application ensures that only users with the correct password can recover th
 
 ---
 
-##🚀 How to Use
+## 🚀 How to Use
 
-###🔐 Encryption Process
+### 🔐 Encryption Process
 
 1. Upload File
 
@@ -70,7 +70,7 @@ Save the encrypted file safely.
 
 ---
 
-###🔓 Decryption Process
+### 🔓 Decryption Process
 
 1. Upload Encrypted File
 
@@ -94,7 +94,7 @@ After successful decryption, the original file will be available for download.
 
 ---
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Depending on implementation, the project may use:
 
@@ -122,7 +122,7 @@ Other Tools
 
 ---
 
-##🔐 Security Notes
+## 🔐 Security Notes
 
 - Always use a strong password.
 - Never share your password publicly.
@@ -131,7 +131,7 @@ Other Tools
 
 ---
 
-##📁 Supported File Types
+## 📁 Supported File Types
 
 This software can work with various file formats including:
 
@@ -145,7 +145,7 @@ This software can work with various file formats including:
 
 ---
 
-##💡 Future Improvements
+## 💡 Future Improvements
 
 Possible future enhancements:
 
@@ -158,7 +158,7 @@ Possible future enhancements:
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -172,12 +172,12 @@ If you'd like to improve this project:
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed with ❤️ for secure and simple file protection. -CodeDebanjan
