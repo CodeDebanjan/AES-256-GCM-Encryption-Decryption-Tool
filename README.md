@@ -1,6 +1,6 @@
 # AES-256-GCM-Encryption-Decryption-Tool
 
-##🔐 Secure File Encryption & Decryption Software
+## 🔐 Secure File Encryption & Decryption Software
 
 A simple and secure file encryption/decryption application that allows users to protect their files using password-based encryption.
 
