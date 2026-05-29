@@ -1,14 +1,18 @@
 # AES-256-GCM-Encryption-Decryption-Tool
 
-🔐 Secure File Encryption & Decryption Software
+##🔐 Secure File Encryption & Decryption Software
 
 A simple and secure file encryption/decryption application that allows users to protect their files using password-based encryption.
 
 Whether you want to secure personal documents, confidential files, or sensitive data, this software provides an easy-to-use interface for encrypting and decrypting files safely.
 
+<img width="1244" height="663" alt="Screenshot 2026-05-30 015408" src="https://github.com/user-attachments/assets/3230a940-e7a2-40f3-91df-867319816459" />
+<img width="1245" height="663" alt="Screenshot 2026-05-30 015445" src="https://github.com/user-attachments/assets/40d0de0c-07a4-43e6-b30a-0ddd57567a68" />
+<img width="1242" height="659" alt="Screenshot 2026-05-30 015527" src="https://github.com/user-attachments/assets/243167de-a33d-48f3-81ec-a88da63a5604" />
+
 ---
 
-📌 Description
+##📌 Description
 
 This project is a file encryption and decryption tool designed to help users securely protect their files using password-based encryption.
 
@@ -25,7 +29,7 @@ The application ensures that only users with the correct password can recover th
 
 ---
 
-✨ Features
+##✨ Features
 
 - 🔒 Secure file encryption
 - 🔓 Accurate file decryption
@@ -38,9 +42,9 @@ The application ensures that only users with the correct password can recover th
 
 ---
 
-🚀 How to Use
+##🚀 How to Use
 
-🔐 Encryption Process
+###🔐 Encryption Process
 
 1. Upload File
 
@@ -66,7 +70,7 @@ Save the encrypted file safely.
 
 ---
 
-🔓 Decryption Process
+###🔓 Decryption Process
 
 1. Upload Encrypted File
 
@@ -90,7 +94,7 @@ After successful decryption, the original file will be available for download.
 
 ---
 
-🛠️ Technology Stack
+##🛠️ Technology Stack
 
 Depending on implementation, the project may use:
 
@@ -118,7 +122,7 @@ Other Tools
 
 ---
 
-🔐 Security Notes
+##🔐 Security Notes
 
 - Always use a strong password.
 - Never share your password publicly.
@@ -127,7 +131,7 @@ Other Tools
 
 ---
 
-📁 Supported File Types
+##📁 Supported File Types
 
 This software can work with various file formats including:
 
@@ -141,7 +145,7 @@ This software can work with various file formats including:
 
 ---
 
-💡 Future Improvements
+##💡 Future Improvements
 
 Possible future enhancements:
 
@@ -154,7 +158,7 @@ Possible future enhancements:
 
 ---
 
-🤝 Contributing
+##🤝 Contributing
 
 Contributions are welcome!
 
@@ -168,14 +172,6 @@ If you'd like to improve this project:
 
 ---
 
-📜 License
-
-This project is licensed under the MIT License.
-
-You are free to use, modify, and distribute this software for personal and educational purposes.
-
----
-
 ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
@@ -184,4 +180,4 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 👨‍💻 Author
 
-Developed with ❤️ for secure and simple file protection.
+Developed with ❤️ for secure and simple file protection. -CodeDebanjan
